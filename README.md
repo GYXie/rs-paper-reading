@@ -38,3 +38,6 @@
 - Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks
 -- WeChat, 2021, [link](https://arxiv.org/pdf/2105.04790.pdf
 )
+- Content-aware Neural Hashing for Cold-start Recommendation, SIGIR 2020, [link](https://arxiv.org/pdf/2006.00617.pdf), [code](https://github.com/casperhansen/NeuHash-CF)
+- Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction. --Alibaba, SIGIR2021, [link](https://arxiv.org/pdf/2105.08909.pdf), [code](https://github.com/oywtece/gme)
+- Privileged Graph Distillation for Cold Start Recommendation --SIGIR 2021, [link](https://arxiv.org/pdf/2105.14975.pdf)
