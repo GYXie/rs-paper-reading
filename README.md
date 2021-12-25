@@ -30,3 +30,11 @@
 
 - AutoInt: Automatic Feature Interaction Learning via Self-Attentive Neural Networks
 --Peking, 2018, [link](https://arxiv.org/pdf/1810.11921.pdf)
+
+## Item Cold Start(ICS)
+- A Meta-Learning Perspective on Cold-Start Recommendations for Items
+--Twitter, 2017, [link](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/46346.pdf
+)
+- Learning to Warm Up Cold Item Embeddings for Cold-start Recommendation with Meta Scaling and Shifting Networks
+-- WeChat, 2021, [link](https://arxiv.org/pdf/2105.04790.pdf
+)
