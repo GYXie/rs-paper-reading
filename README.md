@@ -40,5 +40,8 @@
 )
 - Content-aware Neural Hashing for Cold-start Recommendation, SIGIR 2020, [link](https://arxiv.org/pdf/2006.00617.pdf), [code](https://github.com/casperhansen/NeuHash-CF)
 - Learning Graph Meta Embeddings for Cold-Start Ads in Click-Through Rate Prediction. --Alibaba, SIGIR2021, [link](https://arxiv.org/pdf/2105.08909.pdf), [code](https://github.com/oywtece/gme)
+![gme_figure2](imgs/gme_figure2.png)
+![gme_figure3](imgs/gme_figure3.png)
+![gme_figure5](imgs/gme_figure5.png)
 - Privileged Graph Distillation for Cold Start Recommendation --SIGIR 2021, [link](https://arxiv.org/pdf/2105.14975.pdf)
 - Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings --中科院, SIGIR2019, [link](https://arxiv.org/pdf/1904.11547.pdf)
